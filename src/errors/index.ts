@@ -8,3 +8,4 @@ export * from './request-error';
 export * from './payment-error';
 export * from './tickets-erros'
 export * from './box-errors';
+export * from './hotel-errors';
